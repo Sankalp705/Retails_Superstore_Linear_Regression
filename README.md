@@ -1,4 +1,4 @@
-# Retail_Superstore_Analysis_
+# Retail_Superstore_Analysis
 
 This project involves the analysis and modeling of a retail superstore dataset. The dataset includes customer and transaction details such as Category, City, Country, Sales, Shipping Cost, and more. The primary goals are:
 	1.	Perform exploratory data analysis (EDA).
